@@ -1,0 +1,1 @@
+./mapper <  AB_NYC_2019.csv | ./avg_reducer

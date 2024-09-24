@@ -1,0 +1,1 @@
+./mapper <  AB_NYC_2019.csv > out_mapper.txt 2>err_mapper.txt
