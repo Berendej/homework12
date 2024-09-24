@@ -1,5 +1,5 @@
 cmake_minimum_required( VERSION 3.10 )
-project( mapred_reduce VERSION 0.1.1 )
+project( homework12 VERSION 0.1.1 )
 add_executable( mapper mapper.cpp )
 add_executable( avg_reducer avg_reducer.cpp )
 add_executable( disp_reducer disp_reducer.cpp )
